@@ -4,3 +4,5 @@
 # Test Action
 # Playwright
 # azure terraform github actions
+# jest test
+# esLint
