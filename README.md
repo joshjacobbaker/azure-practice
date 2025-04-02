@@ -7,3 +7,4 @@
 # jest test
 # esLint
 # echo Your new line here >> README.md
+echo web app vs static web app >> README.md
