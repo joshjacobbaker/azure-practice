@@ -8,3 +8,4 @@
 # esLint
 # echo Your new line here >> README.md
 echo web app vs static web app >> README.md
+echo husky git commit lint >> README.md
