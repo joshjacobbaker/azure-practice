@@ -9,3 +9,4 @@
 # echo Your new line here >> README.md
 echo web app vs static web app >> README.md
 echo husky git commit lint >> README.md
+echo eslint.rc or .json or .mjs >> README.md
