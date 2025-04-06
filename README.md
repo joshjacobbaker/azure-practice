@@ -11,3 +11,4 @@ echo web app vs static web app >> README.md
 echo husky git commit lint >> README.md
 echo eslint.rc or .json or .mjs >> README.md
 echo tsconfic >> README.md
+echo github actions >> README.md
