@@ -15,3 +15,4 @@ echo github actions >> README.md
 echo tsconfig
 echo terraform
 echo .npmrc registry
+echo styled-components
