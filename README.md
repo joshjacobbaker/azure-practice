@@ -17,3 +17,4 @@ echo terraform
 echo .npmrc registry
 echo styled-components
 echo styled-components w/tailwindcss
+echo twin.macro and clsx for tailwindcss
