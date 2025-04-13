@@ -19,3 +19,4 @@ echo styled-components
 echo styled-components w/tailwindcss
 echo twin.macro and clsx for tailwindcss
 echo tailwind.config.js > extend > theme
+echo custom .tailwindcss classes in globals.css file @apply tw-class
