@@ -18,3 +18,4 @@ echo .npmrc registry
 echo styled-components
 echo styled-components w/tailwindcss
 echo twin.macro and clsx for tailwindcss
+echo tailwind.config.js > extend > theme
