@@ -21,3 +21,4 @@ echo twin.macro and clsx for tailwindcss
 echo tailwind.config.js > extend > theme
 echo custom .tailwindcss classes in globals.css file @apply tw-class
 echo background and foreground
+echo github secret variables in gh actions
