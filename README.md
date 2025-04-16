@@ -22,3 +22,4 @@ echo tailwind.config.js > extend > theme
 echo custom .tailwindcss classes in globals.css file @apply tw-class
 echo background and foreground
 echo github secret variables in gh actions
+echo styled-component themeProvider around styled-components in jest test
