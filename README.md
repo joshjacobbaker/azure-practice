@@ -25,3 +25,4 @@ echo github secret variables in gh actions
 echo styled-component themeProvider around styled-components in jest test
 echo docker builder
 echo .vscode/settings.json [Rebecca was here] --- J + R
+echo .eslintrc to help identify early errors
