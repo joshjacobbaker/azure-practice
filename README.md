@@ -27,3 +27,4 @@ echo docker builder
 echo .vscode/settings.json [Rebecca was here] --- J + R
 echo .eslintrc to help identify early errors
 echo turbo repo to include cache, outputs, dependencies
+git hooks pre-commit pre-push for command line tasks
