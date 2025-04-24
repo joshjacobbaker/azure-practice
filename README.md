@@ -30,3 +30,4 @@ echo turbo repo to include cache, outputs, dependencies
 git hooks pre-commit pre-push for command line tasks
 jest test coverage within cicd
 react query ssr hydrate
+github actions to run terraform commands to provision infrastructure
