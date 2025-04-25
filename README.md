@@ -31,3 +31,4 @@ git hooks pre-commit pre-push for command line tasks
 jest test coverage within cicd
 react query ssr hydrate
 github actions to run terraform commands to provision infrastructure
+tailwind intellisense class className etc
