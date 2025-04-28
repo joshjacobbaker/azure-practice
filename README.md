@@ -34,3 +34,4 @@ github actions to run terraform commands to provision infrastructure
 tailwind intellisense class className etc
 @visx/visx charting library
 g svg path visx
+azure resource group
