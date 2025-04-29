@@ -35,3 +35,4 @@ tailwind intellisense class className etc
 @visx/visx charting library
 g svg path visx
 azure resource group
+svg styles fill stroke
