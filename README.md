@@ -37,3 +37,4 @@ g svg path visx
 azure resource group
 svg styles fill stroke
 azure static web app -- nextjs
+custom hook for javascript component styles
