@@ -42,3 +42,4 @@ styled comp, tailwind, jest, azure static web app
 onMouseHover event handler callback
 deploy nextjs to azure static web app
 useRef to control container width and height
+github actions deploy nextjs to azure static web
