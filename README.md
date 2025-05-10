@@ -46,3 +46,4 @@ github actions deploy nextjs to azure static web
 azure web app instead of static web app
 create and destroy cloud resources subnet vnet app insight web app
 sso auth
+modal fullscreen api
