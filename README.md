@@ -53,3 +53,4 @@ azure web app terraform, sso saml auth
 azure web app terraform, sso saml auth
 azure web app terraform, sso saml auth
 azure web app terraform, sso saml auth
+azure web app terraform, sso saml auth, 2 subnet
